@@ -1,6 +1,6 @@
-author: mongoose-os
+author: jeffxor
 type: lib
-description: An empty lib that does nothing
+description: Mongoose OS Port of SparkFun_MCP9600_Arduino_Library
 version: 1.0
 
 includes:

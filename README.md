@@ -20,6 +20,7 @@ config_schema:
   - ["i2c.enable", true]
 libs:
   - location: https://github.com/mongoose-os-libs/i2c
+  - location: https://github.com/jeffxor/arduino-adafruit-mcp9600
 ```
 
 ### Code
