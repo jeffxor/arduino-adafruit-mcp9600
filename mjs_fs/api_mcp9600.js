@@ -1,5 +1,5 @@
 // Arduino Adafruit_ADS1015 library API. Source C API is defined at:
-// [mgos_arduino_Adafruit_ADS1015.h]
+// [mgos_mcp9600.h]
 
 let Adafruit_MCP9600 = {
   _create: ffi('void *mgos_MCP9600_create()'),
