@@ -1,0 +1,13 @@
+# Build folders
+build/
+deps/
+
+# Development Keys
+fs/*.key
+fs/*.crt
+
+# IDE
+.history/
+
+# OS
+.DS_Store

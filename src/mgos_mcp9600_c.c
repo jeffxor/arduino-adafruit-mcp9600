@@ -1,5 +1,5 @@
 #include "mgos.h"
 
-bool mgos_mcp9600_init(void) {
+bool mgos_mgos_arduino_adafruit_mcp9600_init(void) {
   return true;
 }
